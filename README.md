@@ -1,2 +1,2 @@
-# Tutorial1
-Staircase
+# Adaptive Staircase Experiment
+Tutorial 1
